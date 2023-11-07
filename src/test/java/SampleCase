@@ -1,0 +1,20 @@
+Verify that the company logo and name are clearly visible.
+Verify that the user is able to navigate through all the products across different categories.
+Verify that all the links and banners are redirecting to the correct product/category pages and none of the links are broken.
+Verify that all the information displayed – product name, category name, price, and product description is clearly visible.
+Verify that all the images – product and banner are clearly visible.
+Verify that category pages have a relevant product listed, specific to the category.
+Verify that the correct count of total products is displayed on the category pages.
+Search – Verify that on searching, all the products satisfying the search criteria are visible on the search result page.
+Search – Verify that on searching, products get displayed on the basis of their relevancy.
+Search – Verify that the count of products is correctly displayed on the search result page for a particular search term.
+Filtering – Verify that filtering functionality correctly filters products based on the filter applied.
+Filtering – Verify that filtering works correctly on category pages.
+Filtering – Verify that filtering works correctly on the search result page.
+Filtering – Verify that the correct count of total products is displayed after a filter is applied.
+Filtering – Verify that the correct count and products get displayed on applying multiple filters.
+Sorting – Verify that all the sort options work correctly. On sorting the products based on the sort option chosen.
+Sorting – Verify that sorting works correctly on the category pages.
+Sorting – Verify that sorting works correctly on the search result page.
+Sorting – Verify that sorting works correctly on the pages containing the filtered result, after applying filters.
+Sorting – Verify that the product count remains the same irrespective of the sorting option applied.
